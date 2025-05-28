@@ -1,3 +1,4 @@
+
 🌱 Plant Tracking System
 Plant Tracking System is a desktop-based application developed for both individual users and agricultural enterprises. It helps users track the maintenance needs of their plants, including watering, fertilization, and light requirements.
 
@@ -15,6 +16,7 @@ This application is designed to help users take care of their plants—whether a
 
 💾 Database Management: All user and plant data is securely stored using Microsoft Access.
 ------------
+
 🛠️ Technologies
 Programming Language: C#
 
@@ -23,7 +25,9 @@ Development Environment: Visual Studio 2022
 Database: Microsoft Access
 
 Platform: Windows Desktop
-------------
+
+-------------------------------------------------
+
 
 🌱 Bitki Takip Sistemi
 Bitki Takip Sistemi, bireysel kullanıcılar ve tarımsal işletmeler için geliştirilmiş, masaüstü tabanlı bir bitki bakım takip uygulamasıdır. Kullanıcıların bitki türlerini ekleyerek sulama, gübreleme ve ışık ihtiyaçlarını kolayca takip etmesini sağlar.
