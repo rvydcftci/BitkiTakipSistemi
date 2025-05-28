@@ -1,5 +1,6 @@
 🌱 Plant Tracking System
 Plant Tracking System is a desktop-based application developed for both individual users and agricultural enterprises. It helps users track the maintenance needs of their plants, including watering, fertilization, and light requirements.
+
 🧩 Project Overview
 This application is designed to help users take care of their plants—whether at home or in small-scale agricultural settings—by sending timely reminders and allowing them to manage plant data easily. With its notification system, users will never forget to water or fertilize their plants again.
 -----
