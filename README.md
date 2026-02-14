@@ -1,64 +1,78 @@
+## 🌿 Plant Tracking System
+---
+- Plant Tracking System is a Windows Forms desktop application that helps users manage and monitor plant care processes such as watering, fertilizing, light requirements, and temperature conditions.
+- The application allows users to create a profile, select plant categories, add plants to their personal list, and view detailed care requirements.
 
-🌱 Plant Tracking System
-Plant Tracking System is a desktop-based application developed for both individual users and agricultural enterprises. It helps users track the maintenance needs of their plants, including watering, fertilization, and light requirements.
+---
+## 🛠️ Technologies Used
 
-🧩 Project Overview
-This application is designed to help users take care of their plants—whether at home or in small-scale agricultural settings—by sending timely reminders and allowing them to manage plant data easily. With its notification system, users will never forget to water or fertilize their plants again.
------
-🔍 Key Features
-👤 Profile Management: Users can create and manage a personal profile.
+- C#
+- Windows Forms
+- Microsoft Access
+- Observer Design Pattern
+---
+## ✨ Features
 
-🌿 Add Plants: Users can add plants to their list by selecting from categories like trees, flowers, and herbs.
+- Create and manage a personal user profile  
+- Browse plant categories such as Flowers, Trees, and Spices  
+- Add selected plants to a personalized plant list  
+- View detailed care requirements including watering, fertilizing, light, and temperature conditions  
+- Fully offline desktop application with local database support
 
-📋 Care Monitoring: Each plant's water, fertilizer, light, and temperature needs are stored in the system.
+---
 
-🔔 Notification System: Reminder alerts for plant maintenance using Observer Pattern.
+## 🎯 Project Objectives
 
-💾 Database Management: All user and plant data is securely stored using Microsoft Access.
-------------
+- Simplify and streamline plant care management processes  
+- Provide structured monitoring of plant growth and environmental conditions  
+- Support sustainable and organized plant maintenance practices   
+- Demonstrate practical software architecture and design pattern implementation
 
-🛠️ Technologies
-Programming Language: C#
+---
 
-Development Environment: Visual Studio 2022
+## 📸 Application Screenshots
 
-Database: Microsoft Access
+Below are selected screenshots demonstrating the main features and user interface of the application.
 
-Platform: Windows Desktop
+---
+### 🏠 Main Screen
+![Main Screen](images/1.jpeg)
 
--------------------------------------------------
+---
 
+### 👤 Profile Screen
+![Profile Screen](images/2.jpeg)
 
-🌱 Bitki Takip Sistemi
-Bitki Takip Sistemi, bireysel kullanıcılar ve tarımsal işletmeler için geliştirilmiş, masaüstü tabanlı bir bitki bakım takip uygulamasıdır. Kullanıcıların bitki türlerini ekleyerek sulama, gübreleme ve ışık ihtiyaçlarını kolayca takip etmesini sağlar.
-🧩 Proje Özeti
-Bu uygulama, kullanıcıların ev veya küçük ölçekli tarım ortamlarında bitkilerini doğru zamanda ve doğru koşullarda bakım yapmalarını destekler. Bildirim sistemi sayesinde sulama ve gübreleme işlemleri unutulmaz, kullanıcılar bitki sağlığını kolayca izleyebilir.
-----
-🔍 Temel Özellikler
-👤 Profil Yönetimi: Kullanıcı ismiyle profil oluşturma ve yönetme.
+---
 
-🌿 Bitki Ekleme: Ağaç, çiçek ve baharat kategorilerinden bitkiler seçip ekleyebilme.
+### 🌿 Plant List Screen
+![Plant List Screen](images/3.jpeg)
 
-📋 Bakım Takibi: Her bitkinin sulama, gübreleme, ışık ve sıcaklık bilgileri veritabanında kayıtlı.
+---
 
-🔔 Bildirim Sistemi: Zamanlayıcıya bağlı olarak sulama ve gübreleme hatırlatmaları.
+### 🌸 Flowers Category
+![Flowers Category](images/4.jpeg)
 
-💾 Veritabanı Yönetimi: Tüm bilgiler Microsoft Access üzerinde güvenli biçimde saklanır.
------
-🛠️ Teknolojiler
-Programlama Dili: C#
+---
 
-Geliştirme Ortamı: Visual Studio 2022
+### 🌳 Trees Category
+![Trees Category](images/5.jpeg)
 
-Veritabanı: Microsoft Access
+---
 
-Platform: Windows masaüstü
------
-👥 Geliştirici Ekip
-Ümit Demir 
+### 🌿 Spices Category
+![Spices Category](images/6.jpeg)
 
-Elif Ergen 
+---
 
-Rüveyda Çiftci 
+## 👩‍💻 Development Team
 
-Aziz Bolat 
+Developed as a collaborative academic project by:
+
+- Ümit Demir  
+- Elif Ergen  
+- Rüveyda Çiftci  
+- Aziz Bolat
+
+ --- 
+
