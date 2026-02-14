@@ -30,8 +30,6 @@
 
 ## 📸 Application Screenshots
 
-Below are selected screenshots demonstrating the main features and user interface of the application.
-
 ---
 ### 🏠 Main Screen
 ![Main Screen](images/1.jpeg)
