@@ -25,8 +25,6 @@
 
 - Simplify and streamline plant care management processes  
 - Provide structured monitoring of plant growth and environmental conditions  
-- Support sustainable and organized plant maintenance practices   
-- Demonstrate practical software architecture and design pattern implementation
 
 ---
 
